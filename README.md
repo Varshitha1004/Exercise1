@@ -42,13 +42,15 @@ Dynamic Strategy Change: The compression strategy can be changed at runtime, all
 Compress Image: Once the strategy is set, the system compresses the given image using the selected algorithm.
 
 
-# creational design pattern
+# Creational design pattern
+1)CustomizePc Config
+
 Pattern Demonstrated: 
 Builder Pattern
 
 Overview: This project employs the Builder Pattern to allow for the step-by-step construction of customizable PC configurations. This modular approach helps manage the complexity involved in assembling PCs with different specifications and component combinations.
 
-AllPatternsDemo
+2)AllPatternsDemo
 
 Patterns Demonstrated:
 1)Singleton Pattern

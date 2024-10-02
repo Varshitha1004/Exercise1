@@ -1,3 +1,6 @@
+//EXERCISE-1
+//1ST USECASE- IMAGE COMPRESSION
+
 interface Compressor {
     void compress(String fileName);
 }

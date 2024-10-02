@@ -33,7 +33,7 @@ class ImageStorage {
 }
 
 // Main class to use ImageStorage
-public class Mains {
+public class ImageCompression {
     public static void main(String[] args) {
         Compressor jpegCompressor = new JPEGCompressor();
         Compressor pngCompressor = new PNGCompressor();

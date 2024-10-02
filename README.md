@@ -1,6 +1,8 @@
 # Exercise1
 # Behavioural design pattern
 1) Weather Monitoring System using Observer Pattern
+
+
 Description:
 This project demonstrates the implementation of the Observer Design Pattern. The system simulates a weather station that broadcasts temperature updates to different display units, such as in a lobby or office. The display units (Observers) automatically update when the weather station (Subject) changes its temperature.
 
@@ -22,6 +24,9 @@ After removing an observer, that display unit will no longer receive updates.
 
 
 2)Image Compression using Strategy Pattern
+
+
+
 Description:
 This project demonstrates the implementation of the Strategy Design Pattern. The system simulates an image storage application that can compress images using different compression algorithms (JPEG, PNG). The compression strategy can be changed at runtime.
 

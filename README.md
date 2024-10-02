@@ -34,7 +34,7 @@ Dynamic Strategy Change: The compression strategy can be changed at runtime, all
 Compress Image: Once the strategy is set, the system compresses the given image using the selected algorithm.
 
 
-#creational design pattern
+# creational design pattern
 Pattern Demonstrated: 
 Builder Pattern
 
@@ -48,7 +48,7 @@ Patterns Demonstrated:
 Overview: This application integrates multiple design patterns into a single demo. The Singleton pattern manages a simulated database connection to ensure only one connection instance is created. The Factory Method pattern is used to create different types of notification objects dynamically
 
 
-#Structural design pattern
+# Structural design pattern
 Structural Design Patterns
 
 1. Adapter Design Pattern
